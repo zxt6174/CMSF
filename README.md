@@ -1,6 +1,12 @@
 # SiFu: Cross Modal Image-Text Retrieval via Spike Fusion
 
 Our source code is built on top of the [vse_inf](https://github.com/woodfrog/vse_infty) and [USER](https://github.com/zhangy0822/USER) in PyTorch. 
+
+## Environment
+```
+spikingjelly 0.0.0.0.12
+```
+
 ## Data
 We organize all data used in the experiments in the same manner as [vse_inf](https://github.com/woodfrog/vse_infty).
 
