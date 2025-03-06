@@ -2,7 +2,8 @@
 
 Our source code is built on top of the [vse_inf](https://github.com/woodfrog/vse_infty) and [USER](https://github.com/zhangy0822/USER) in PyTorch. 
 ## Data
-We organize all data used in the experiments in the same manner as [vse_inf](https://github.com/woodfrog/vse_infty):
+We organize all data used in the experiments in the same manner as [vse_inf](https://github.com/woodfrog/vse_infty).
+
 The pre-computed region dataset extracted by FasterR-CNN is available in the README file of [vse_inf](https://github.com/woodfrog/vse_infty). You can download it from [here](https://www.dropbox.com/scl/fo/vmd0dvz20t7aae9jal0nc/ALoI0grReuah2PB5NgHGmac?rlkey=rei5ljf7hro7chkxltkcs0odr&e=1&dl=0).
 
 ```
