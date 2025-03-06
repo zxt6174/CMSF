@@ -39,9 +39,9 @@ data
 ## Training
 Train MSCOCO and Flickr30K from scratch:
 
-Modify the corresponding arguments and run `train_region_coco.sh` or `train_region_f30k.sh`
+Modify the corresponding arguments and run `train_region_coco.sh` or `train_region_f30k.sh`.
 
 ## Evaluation
-Modify the corresponding arguments in `eval.py` and run `python eval.py`.
+Modify the corresponding arguments and run `test_region_coco.sh` or `test_region_f30k.sh`.
 
 
