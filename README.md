@@ -1,4 +1,4 @@
-# SiFu: Cross Modal Image-Text Retrieval via Spike Fusion
+# Multimodal Spiking Neural Network for Image-Text Retrieval
 
 Our source code is built on top of the [vse_inf](https://github.com/woodfrog/vse_infty) and [USER](https://github.com/zhangy0822/USER) in PyTorch. 
 
