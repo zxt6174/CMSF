@@ -1,6 +1,6 @@
 # Multimodal Spiking Neural Network for Image-Text Retrieval
 
-Our source code is built on top of the [VSE$\infty$](https://github.com/woodfrog/vse_infty), [USER](https://github.com/zhangy0822/USER) and [SpikingJelly](https://github.com/fangwei123456/spikingjelly)in PyTorch. 
+Our source code is built on top of the [VSE_inf](https://github.com/woodfrog/vse_infty), [USER](https://github.com/zhangy0822/USER) and [SpikingJelly](https://github.com/fangwei123456/spikingjelly)in PyTorch. 
 
 ## Environment
 See the enviroment requirements in `requirements.txt`.
